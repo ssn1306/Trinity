@@ -1,5 +1,5 @@
 #!/usr/bin/env perl
-
+ vvodim izmeneniya
 use strict;
 use warnings;
 use threads;
